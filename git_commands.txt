@@ -30,3 +30,8 @@
 я захожу в ветку в которую мне нужно слиять 
 git checkout movsar
 git merge main
+
+
+Чтобы отправить ветки на гитхаб
+>>> git push -u origin movsar
+>>> git push -u origin Iam7mail
