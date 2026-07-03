@@ -22,3 +22,8 @@
 >>> git branch movsar
 >>> git branch Iam7mail
 
+Чтобы заполучить изменения с другой ветки 
+я слияю эту ветку с моей
+я захожу в ветку в которую мне нужно слиять 
+git checkout movsar
+git merge main
